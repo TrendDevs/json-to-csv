@@ -1,2 +1,4 @@
-.idea/
-out/
+/.settings/
+/target/
+.classpath
+.project
